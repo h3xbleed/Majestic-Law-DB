@@ -1,0 +1,329 @@
+{
+ "generated_at": "2026-07-06T01:20:05.321Z",
+ "servers": {
+  "Atlanta": {
+   "added_docs": [
+    {
+     "id": "1231821",
+     "title": "Government | Журнал заседаний конгресса штата SA",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/government-zhurnal-zasedanii-kongressa-shtata-sa.1231821/",
+     "articles": 0
+    },
+    {
+     "id": "2432714",
+     "title": "Кабинет Спикера Конгресса Штата SA",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/kabinet-spikera-kongressa-shtata-sa.2432714/",
+     "articles": 0
+    },
+    {
+     "id": "3162906",
+     "title": "Government | Регламент проведения Конгресса",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/government-reglament-provedeniya-kongressa.3162906/",
+     "articles": 12
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Boston": {
+   "added_docs": [
+    {
+     "id": "3005146",
+     "title": "Кабинет Спикера Сената штата San-Andreas",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/kabinet-spikera-senata-shtata-san-andreas.3005146/",
+     "articles": 0
+    },
+    {
+     "id": "3013994",
+     "title": "Резолюции Сената штата San-Andreas",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/rezolyutsii-senata-shtata-san-andreas.3013994/",
+     "articles": 0
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Dallas": {
+   "added_docs": [
+    {
+     "id": "1544189",
+     "title": "Офис Председателя Сената",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/ofis-predsedatelya-senata.1544189/",
+     "articles": 0
+    },
+    {
+     "id": "1918077",
+     "title": "Список Сенаторов Штата Сан-Андреас",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/spisok-senatorov-shtata-san-andreas.1918077/",
+     "articles": 0
+    },
+    {
+     "id": "3274337",
+     "title": "ЕДИНЫЙ РЕЕСТР МАНДАТОВ",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/yedinyi-reyestr-mandatov.3274337/",
+     "articles": 0
+    },
+    {
+     "id": "2641029",
+     "title": "Регламент голосования, рассмотрения законопроектов и иных инициатив",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/reglament-golosovaniya-rassmotreniya-zakonoproyektov-i-inykh-initsiativ.2641029/",
+     "articles": 1
+    },
+    {
+     "id": "1928772",
+     "title": "Регистрация Политических Партий",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/registratsiya-politicheskikh-partii.1928772/",
+     "articles": 0
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Denver": {
+   "added_docs": [
+    {
+     "id": "2579966",
+     "title": "Кабинет Спикера сената",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/kabinet-spikera-senata.2579966/",
+     "articles": 3
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Houston": {
+   "added_docs": [],
+   "removed_docs": [],
+   "docs": {
+    "Процессуальный кодекс штата San-Andreas": {
+     "added": [],
+     "removed": [],
+     "changed": [
+      {
+       "num": "18",
+       "title": "Субъекты задержания",
+       "text_changed": true,
+       "san_changed": false
+      }
+     ]
+    }
+   }
+  },
+  "Los Angeles": {
+   "added_docs": [
+    {
+     "id": "3063533",
+     "title": "Government | Кабинет Спикера Парламента",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/government-kabinet-spikera-parlamenta.3063533/",
+     "articles": 0
+    },
+    {
+     "id": "3063558",
+     "title": "Government | Журнал Проведенных Заседаний Пленума",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/government-zhurnal-provedennykh-zasedanii-plenuma.3063558/",
+     "articles": 0
+    }
+   ],
+   "removed_docs": [],
+   "docs": {
+    "Процессуальный Кодекс штата Сан-Андреас": {
+     "added": [],
+     "removed": [],
+     "changed": [
+      {
+       "num": "6",
+       "title": "Субъекты при задержании",
+       "text_changed": true,
+       "san_changed": false
+      }
+     ]
+    },
+    "Закон “О закрытых и охраняемых территориях Штата Сан-Андреас”": {
+     "added": [
+      {
+       "num": "6.6",
+       "title": "Режимный объект SANG",
+       "san": "—"
+      }
+     ],
+     "removed": [],
+     "changed": [
+      {
+       "num": "2.1",
+       "title": "Специальная парковочная зона",
+       "text_changed": true,
+       "san_changed": false
+      },
+      {
+       "num": "4.1",
+       "title": "Нарушение общественного порядка",
+       "text_changed": true,
+       "san_changed": false
+      },
+      {
+       "num": "6.2",
+       "title": "Охраняемая территория SANG",
+       "text_changed": true,
+       "san_changed": false
+      },
+      {
+       "num": "6.3",
+       "title": "Допуск на территорию форта",
+       "text_changed": true,
+       "san_changed": false
+      },
+      {
+       "num": "6.4",
+       "title": "Личный обыск на форте",
+       "text_changed": true,
+       "san_changed": false
+      },
+      {
+       "num": "6.5",
+       "title": "Свободная зона КПП",
+       "text_changed": true,
+       "san_changed": false
+      }
+     ]
+    }
+   }
+  },
+  "Memphis": {
+   "added_docs": [
+    {
+     "id": "3373343",
+     "title": "Список Сенаторов Штата Сан-Андреас",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/spisok-senatorov-shtata-san-andreas.3373343/",
+     "articles": 0
+    },
+    {
+     "id": "3364868",
+     "title": "Кабинет Спикер Сената",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/kabinet-spiker-senata.3364868/",
+     "articles": 0
+    }
+   ],
+   "removed_docs": [],
+   "docs": {
+    "Конституционный закон “О Сенате штата Сан-Андреас”": {
+     "added": [],
+     "removed": [],
+     "changed": [
+      {
+       "num": "3",
+       "title": "Сенаторы органов власти",
+       "text_changed": true,
+       "san_changed": false
+      }
+     ]
+    }
+   }
+  },
+  "Miami": {
+   "added_docs": [
+    {
+     "id": "2957368",
+     "title": "Government | Нормативно-правовые акты Сената",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/government-normativno-pravovyye-akty-senata.2957368/",
+     "articles": 0
+    },
+    {
+     "id": "2957356",
+     "title": "Government | Одобренные законопроекты",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/government-odobrennyye-zakonoproyekty.2957356/",
+     "articles": 0
+    },
+    {
+     "id": "3259683",
+     "title": "Government | Регламент работы Сената",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/government-reglament-raboty-senata.3259683/",
+     "articles": 33
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Orlando": {
+   "added_docs": [
+    {
+     "id": "3040321",
+     "title": "Кабинет Спикера конгресса",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/kabinet-spikera-kongressa.3040321/",
+     "articles": 1
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Phoenix": {
+   "added_docs": [
+    {
+     "id": "2920598",
+     "title": "Сенат штата San-Andreas и журнал заседаний",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/senat-shtata-san-andreas-i-zhurnal-zasedanii.2920598/",
+     "articles": 0
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Portland": {
+   "added_docs": [
+    {
+     "id": "3280610",
+     "title": "Закон «О специальных прокурорах штата Сан-Андреас»",
+     "section": "Законодательная база",
+     "url": "https://forum.majestic-rp.ru/threads/zakon-o-spetsial-nykh-prokurorakh-shtata-san-andreas.3280610/",
+     "articles": 8
+    },
+    {
+     "id": "2737624",
+     "title": "Офис Спикера Сената",
+     "section": "Законодательная власть",
+     "url": "https://forum.majestic-rp.ru/threads/ofis-spikera-senata.2737624/",
+     "articles": 0
+    }
+   ],
+   "removed_docs": [],
+   "docs": {}
+  },
+  "Seattle": {
+   "added_docs": [],
+   "removed_docs": [],
+   "docs": {
+    "Уголовный кодекс штата Сан-Андреас": {
+     "added": [],
+     "removed": [],
+     "changed": [
+      {
+       "num": "15.1",
+       "title": "Превышение должностных полномочий",
+       "text_changed": true,
+       "san_changed": false
+      }
+     ]
+    }
+   }
+  }
+ }
+}
